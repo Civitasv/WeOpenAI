@@ -1,24 +1,17 @@
-# hello-openai
+# OpenAI Wrapper Using NodeJS, Present with VueJS
 
-## Project setup
-```
-npm install
-```
+## 目前功能
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. [Completions](https://platform.openai.com/docs/api-reference/completions/create)
+2. [Edits](https://platform.openai.com/docs/api-reference/edits)
+3. [Images](https://platform.openai.com/docs/api-reference/images)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 如何使用
 
-### Lints and fixes files
-```
-npm run lint
-```
+1. 注册 OpenAI，申请 API Key
+2. 输入该 API Key 到顶部
+3. Try It!
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## LICENSE
+
+GPL3.
